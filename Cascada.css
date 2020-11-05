@@ -1,0 +1,88 @@
+.center{
+	margin: auto;
+}
+.menu{
+	height: 45px;
+	width: 45px;
+}
+.título{
+	font-family: Tahoma;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 2px;
+	blur: 5px;
+}
+.subtitulo{
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+}
+.parrafo{
+	font-family: Tahoma;
+	text-align: left;
+}
+img{
+	height: 220px;
+	width: 250px;
+}
+h2{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #7C7C7C;
+	text-align:center;
+	width:250px;
+}
+#contenedor{
+	width: 1000px;
+	background-color: white;
+}
+header{
+	width: 1000px;
+	height:150px;
+}
+section.arriba{
+	width: 1000px;
+}
+div.etiqueta{
+	float: left;
+	width: 25%;
+}
+section.abajo{
+	clear: both;
+	width: 1000px;
+}
+div.part{​​
+width: 25%;
+float:left;
+background-color:white;
+}
+body{
+background-color: #87B3AA;
+}
+.historieta{
+	width: 1000px;
+	height: 500px;
+	text-align: center;
+}
+.encuesta{
+	width: 1000px;
+	height: 1000px;
+	text-align: center;
+}
+.parrafo1{
+	font-family: Tahoma;
+	text-align: center;
+}
+.sub{
+	font-family: Arial;
+	font-size: 18px;
+	text-align: left;
+}
+embed{
+	height: 400px;
+	width: 500px;
+}
+.iconos{
+	width: 160px;
+	height: 39px;
+}
